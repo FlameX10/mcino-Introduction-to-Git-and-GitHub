@@ -1,0 +1,11 @@
+curl https://api.github.com/repos/FlameX10/mcino-Introduction-to-Git-and-GitHub
+
+
+{
+  "id": 1214825312,
+  "name": "mcino-Introduction-to-Git-and-GitHub",
+  "full_name": "FlameX10/mcino-Introduction-to-Git-and-GitHub",
+  "private": false,
+  "fork": true,
+  "html_url": "https://github.com/FlameX10/mcino-Introduction-to-Git-and-GitHub"
+}
